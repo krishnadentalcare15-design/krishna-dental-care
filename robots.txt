@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://krishnadentalcare15-design.github.io/krishna-dental-care/sitemap.xml
